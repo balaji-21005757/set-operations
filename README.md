@@ -1,4 +1,4 @@
-## Experiment 6
+## Experiment 19
 ## Aim:
 To perform SET OPERATIONS on tables in MySQL.
 
@@ -56,5 +56,8 @@ except
 select name from Authors
 order by name
 ```
+## Output 
+![image](https://github.com/balaji-21005757/set-operations/assets/94372294/4e3b8603-2a76-44c9-8ba3-27332736293c)
+
 ## Result:
 Therefore we have successfully performed SET OPERATIONS.
